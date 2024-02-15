@@ -2,6 +2,7 @@
 A project to recommend Movies,Animations,Series,Short-films (MASS) using machine learning with flask 
 
 Procedure:
+
 User must register first.
 
 Imported database from TMDB from which they can search movies/anime/series/short-films, add to watch list and watched list through our website.
